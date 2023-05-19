@@ -11,26 +11,29 @@ This project allowed me to use my knowledge of HTML, Github and JavaScript to st
 - [Credits](#credits)
     - [Markdown Reference](#markdown-reference)
     - [README Guide](#readme-guide)
+    - [Dev Community Password Generator](#devcommunity-password-generator)
 - [License](#license)
 - [How to Contribute](#how-to-contribute)
 - - - -
 ## **Usage**
-To access and use my project, click the "Password-Generator" link shown in the [Website Preview](#website-preview)<a name="website_preview"></a> section below. Click the "Generate Password" button to display a secure password that meets the acceptance criteria.
+To access and use my project, click the "Password-Generator" link shown in the [Website Preview](#website-preview)<a name="website_preview"></a> section below. Click the red "Generate Password" button to display a series of prompts that assist in selecting a secure password that meets each acceptance criteria.
 - - - -
 ## **Website Preview**
 [Password-Generator](https://alexisstrong11.github.io/password-generator/)
 ![Screen showing Password Generator with box to input password](./PW%20Page.png "PW Page")
 - - - - 
 ## **Credits**
-NOTE: *I participated in multiple study groups and received help from the instructor to assist with my  project.*
+NOTE: *I participated in multiple study groups and received help from the instructor to assist with my project.*
 
 ### Markdown Reference
 [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md/ "Markdown Cheatsheet")
-![Markdown-cheatsheet Github repository homepage](./assets/images/Markdown%20Cheatsheet.png "Markdown Cheatsheet")
+![Markdown-cheatsheet Github repository homepage](./Markdown%20Cheatsheet.png "Markdown Cheatsheet")
 ### README Guide
 [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide/ "Professional README Guide")
-![Professional README guide homepage](./assets/images/Readme%20Reference.png "Readme Reference")
-
+![Professional README guide homepage](./Readme%20Reference.png "Readme Reference")
+### DevCommunity Password Generator
+[Password Generator](https://dev.to/code_mystery/random-password-generator-using-javascript-6a "Password Generator")
+![Dev Community Password Generator](./Dev%20Comm.png "Password Generator")
 - - - - 
 ## **License**
 MIT License
